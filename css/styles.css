@@ -30,6 +30,13 @@
     font-family: 'Muli', sans-serif;
 }
 
+.byline-medium {
+    font-size: 25px;
+    font-family: 'Muli', sans-serif;
+    margin-top: 10px;
+}
+
+
 .open-summary-text {
     text-align: center;
     font-style: italic;
